@@ -1,0 +1,7 @@
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3\bin\Debug\MyHW_3.exe.config
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3\bin\Debug\MyHW_3.exe
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3\bin\Debug\MyHW_3.pdb
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3\obj\Debug\MyHW_3.csprojAssemblyReference.cache
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3\obj\Debug\MyHW_3.csproj.CoreCompileInputs.cache
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3\obj\Debug\MyHW_3.exe
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3\obj\Debug\MyHW_3.pdb
