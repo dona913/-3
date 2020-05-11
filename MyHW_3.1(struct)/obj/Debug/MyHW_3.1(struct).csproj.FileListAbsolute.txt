@@ -1,0 +1,7 @@
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3.1(struct)\bin\Debug\MyHW_3.1(struct).exe.config
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3.1(struct)\bin\Debug\MyHW_3.1(struct).exe
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3.1(struct)\bin\Debug\MyHW_3.1(struct).pdb
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3.1(struct)\obj\Debug\MyHW_3.1(struct).csproj.CoreCompileInputs.cache
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3.1(struct)\obj\Debug\MyHW_3.1(struct).exe
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3.1(struct)\obj\Debug\MyHW_3.1(struct).pdb
+C:\Users\dona9\source\repos\MyHW_3\MyHW_3.1(struct)\obj\Debug\MyHW_3.1(struct).csprojAssemblyReference.cache
